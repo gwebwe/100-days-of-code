@@ -15,3 +15,11 @@ Today's Progress: Changed icons for github,added mailto for email, and added lin
 Thoughts: Doesn't seem like much, but had to refresh memory on HTML and CSS syntax.
 
 Link to work: https://gwebwe.github.io/GaryLai/
+
+Day 3: June 23, 2017 
+
+Today's Progress: Took a break from personal website and did Udacity web development course. Did the blog assignment.
+
+Thoughts: Had to refresh memory on working with google cloud and also enjoyed using some Python for web development.
+
+Link to work: http://gwebweproject.appspot.com/
