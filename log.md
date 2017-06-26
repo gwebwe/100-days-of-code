@@ -23,3 +23,11 @@ Today's Progress: Took a break from personal website and did Udacity web develop
 Thoughts: Had to refresh memory on working with google cloud and also enjoyed using some Python for web development.
 
 Link to work: http://gwebweproject.appspot.com/
+
+Day 4: June 25, 2017 
+
+Today's Progress: Missed a day,but was able to get good amount of work today. Learned more about queries in google cloud and creating permalinks for new entries
+
+Thoughts: Was struggling for a bit, but figured out how to get the variable to fit into the GQL SQL. Was a good day.
+
+Link to work: http://gwebweproject.appspot.com/
