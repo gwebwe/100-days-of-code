@@ -31,3 +31,10 @@ Today's Progress: Missed a day,but was able to get good amount of work today. Le
 Thoughts: Was struggling for a bit, but figured out how to get the variable to fit into the GQL SQL. Was a good day.
 
 Link to work: http://gwebweproject.appspot.com/
+
+Day 5: June 26, 2017 
+
+Today's Progress: Made changes to my Udacity code and also added some info to my personal website.
+Thoughts: Wasn't that diffcult today, but plan to work on alot tomorrow. Want to learn more about Bootstrap, so that i can make my personal website more eye appealing.
+
+Link to work: http://gwebweproject.appspot.com/ and https://gwebwe.github.io/GaryLai/
