@@ -38,3 +38,10 @@ Today's Progress: Made changes to my Udacity code and also added some info to my
 Thoughts: Wasn't that diffcult today, but plan to work on alot tomorrow. Want to learn more about Bootstrap, so that i can make my personal website more eye appealing.
 
 Link to work: http://gwebweproject.appspot.com/ and https://gwebwe.github.io/GaryLai/
+
+Day 6: June 27, 2017 
+
+Today's Progress: Made some small changes to personal website, like about me,resume, and added picture.
+Thoughts: Said i would get alot done today, but had to focus on practicing for job interview. Probably won't be able to put in a lot of work in the next couple of days because have to study.
+
+Link to work:https://gwebwe.github.io/GaryLai/
