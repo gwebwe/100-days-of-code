@@ -45,3 +45,11 @@ Today's Progress: Made some small changes to personal website, like about me,res
 Thoughts: Said i would get alot done today, but had to focus on practicing for job interview. Probably won't be able to put in a lot of work in the next couple of days because have to study.
 
 Link to work:https://gwebwe.github.io/GaryLai/
+
+
+Day 7: June 29, 2017 
+
+Today's Progress: Missed two days because of interview + commute. Worked on navigation today. Learned more about bootstrap
+Thoughts: Learn a good amount of bootstrap. Pretty simple to use, but still have to figure out design of personal website.
+
+Link to work:https://gwebwe.github.io/GaryLai/
