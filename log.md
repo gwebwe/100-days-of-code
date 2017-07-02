@@ -47,9 +47,16 @@ Thoughts: Said i would get alot done today, but had to focus on practicing for j
 Link to work:https://gwebwe.github.io/GaryLai/
 
 
-Day 7: June 29, 2017 
+Day 7: June 30, 2017 
 
 Today's Progress: Missed two days because of interview + commute. Worked on navigation today. Learned more about bootstrap
 Thoughts: Learn a good amount of bootstrap. Pretty simple to use, but still have to figure out design of personal website.
+
+Link to work:https://gwebwe.github.io/GaryLai/
+
+Day 8: June 30, 2017 
+
+Today's Progress: Added different columns for technical skills and education. Plan to look for a good free background for website.
+Thoughts: Still struggling with creating a good looking UI/design for the website.
 
 Link to work:https://gwebwe.github.io/GaryLai/
