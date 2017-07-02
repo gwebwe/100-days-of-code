@@ -54,9 +54,16 @@ Thoughts: Learn a good amount of bootstrap. Pretty simple to use, but still have
 
 Link to work:https://gwebwe.github.io/GaryLai/
 
-Day 8: June 30, 2017 
+Day 8: July 1, 2017 
 
 Today's Progress: Added different columns for technical skills and education. Plan to look for a good free background for website.
 Thoughts: Still struggling with creating a good looking UI/design for the website.
+
+Link to work:https://gwebwe.github.io/GaryLai/
+
+Day 9: July 2, 2017 
+
+Today's Progress: Learned more about css, added background image,and added new section to hold information about education,me, and technical skills.
+Thoughts: Good day today, website is looking better with background image.
 
 Link to work:https://gwebwe.github.io/GaryLai/
