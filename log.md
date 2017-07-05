@@ -67,3 +67,11 @@ Today's Progress: Learned more about css, added background image,and added new s
 Thoughts: Good day today, website is looking better with background image.
 
 Link to work:https://gwebwe.github.io/GaryLai/
+
+Day 9: July 4, 2017 
+
+Today's Progress: Fixed formatting of website. Had to adjust the layout of the skills and projects and create more rows for the container class.
+Thoughts: Didn't get much done for the website, just fixed formatting which took longer than expected.Still not sure what to do with the background for the information section.
+
+Link to work:https://gwebwe.github.io/GaryLai/
+
