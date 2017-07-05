@@ -71,7 +71,7 @@ Link to work:https://gwebwe.github.io/GaryLai/
 Day 9: July 4, 2017 
 
 Today's Progress: Fixed formatting of website. Had to adjust the layout of the skills and projects and create more rows for the container class.
-Thoughts: Didn't get much done for the website, just fixed formatting which took longer than expected.Still not sure what to do with the background for the information section.
+Thoughts: Didn't get much done for the website, just fixed formatting which took longer than expected.Still not sure what to do with the background for the information section. Maybe try https://www.w3schools.com/bootstrap/bootstrap_modal.asp ( model boxes for project), so website isn't clustered with projects.
 
 Link to work:https://gwebwe.github.io/GaryLai/
 
