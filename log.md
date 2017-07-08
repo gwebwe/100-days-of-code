@@ -75,3 +75,10 @@ Thoughts: Didn't get much done for the website, just fixed formatting which took
 
 Link to work:https://gwebwe.github.io/GaryLai/
 
+Day 9: July 7, 2017 
+
+Today's Progress: Keep changing formating, but was able to add info about me and want to add a meter for skill level
+Thoughts: Personal website is taking too long,should try to finish this by mid next week.
+
+Link to work:https://gwebwe.github.io
+
