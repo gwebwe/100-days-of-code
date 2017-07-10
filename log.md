@@ -68,17 +68,24 @@ Thoughts: Good day today, website is looking better with background image.
 
 Link to work:https://gwebwe.github.io/GaryLai/
 
-Day 9: July 4, 2017 
+Day 10: July 4, 2017 
 
 Today's Progress: Fixed formatting of website. Had to adjust the layout of the skills and projects and create more rows for the container class.
 Thoughts: Didn't get much done for the website, just fixed formatting which took longer than expected.Still not sure what to do with the background for the information section. Maybe try https://www.w3schools.com/bootstrap/bootstrap_modal.asp ( model boxes for project), so website isn't clustered with projects.
 
 Link to work:https://gwebwe.github.io/GaryLai/
 
-Day 9: July 7, 2017 
+Day 11: July 7, 2017 
 
 Today's Progress: Keep changing formating, but was able to add info about me and want to add a meter for skill level
 Thoughts: Personal website is taking too long,should try to finish this by mid next week.
+
+Link to work:https://gwebwe.github.io
+
+Day 12: July 8/9, 2017 
+
+Today's Progress: Worked on the website late on the 8th and also worked more on it on the 9th. Was able to create two rows, one for completed and another for future/in process. 
+Thoughts: Formatting the rows was confusing, but figured it out. Want to finish personal website by next wednesday, so that i can work on future projects with the use of django. I want to get more experience with django and the backend part with python. 
 
 Link to work:https://gwebwe.github.io
 
