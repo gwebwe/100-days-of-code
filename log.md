@@ -89,3 +89,10 @@ Thoughts: Formatting the rows was confusing, but figured it out. Want to finish 
 
 Link to work:https://gwebwe.github.io
 
+Day 12: July 10, 2017 
+
+Today's Progress: Finished the formatting. All have to do is play with the colors and add text.
+Thoughts: Fixing the padding and margin was a little confusing, but got it to work. Should be done  in a couple of day.
+
+Link to work:https://gwebwe.github.io
+
