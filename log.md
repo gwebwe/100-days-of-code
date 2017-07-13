@@ -89,10 +89,17 @@ Thoughts: Formatting the rows was confusing, but figured it out. Want to finish 
 
 Link to work:https://gwebwe.github.io
 
-Day 12: July 10, 2017 
+Day 13: July 10, 2017 
 
 Today's Progress: Finished the formatting. All have to do is play with the colors and add text.
 Thoughts: Fixing the padding and margin was a little confusing, but got it to work. Should be done  in a couple of day.
+
+Link to work:https://gwebwe.github.io
+
+Day 14: July 11/12, 2017 
+
+Today's Progress: Moved the footer under the skills div, so that website look more clean. Also changed the color the background, so a little more eye popping, but still simple. Just have to add some info, but thats about it.
+Thoughts: Choosing a color was fun, and i think it looks better with the footer under the skills div. Overall, pretty much done. Will start on new project tomorrow. Will have to use a database now. Looking forward to working with django again.
 
 Link to work:https://gwebwe.github.io
 
