@@ -103,3 +103,10 @@ Thoughts: Choosing a color was fun, and i think it looks better with the footer 
 
 Link to work:https://gwebwe.github.io
 
+Day 15: July 17, 2017 
+
+Today's Progress: Been pretty behind, but worked more on udacity course. Worked on user security and hashing.
+Thoughts: Learning more about google app engine is good. Going to start creating a app for fantasy basketball info that uses django and google app engine. Learning more from the udacity course is good information.
+
+Link to work:http://gwebweproject.appspot.com/
+
