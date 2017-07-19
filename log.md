@@ -110,3 +110,11 @@ Thoughts: Learning more about google app engine is good. Going to start creating
 
 Link to work:http://gwebweproject.appspot.com/
 
+
+Day 15: July 18, 2017 
+
+Today's Progress:Worked on the login and register for udacity practice user. Worked more with cookies, but should prob put the some information in the database like password. Overall was good and learned more about how hash and cookies work.
+Thoughts:Good day, all that left is the log off feature, then will prob start working on fantasy info website.
+
+Link to work:http://gwebweproject.appspot.com/
+
